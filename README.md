@@ -11,6 +11,7 @@ Tested in:
  1. Kali Linux
  2. ubuntu
  3. ParrotSec MATE 
+ 4. Andriod 
 
  
  
